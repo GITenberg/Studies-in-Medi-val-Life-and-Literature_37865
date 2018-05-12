@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39097'
     url: http://www.gutenberg.org/2009/agents/39097
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37865#Studies-in-Medi-val-Life-and-Literature
 gutenberg_issued: '2011-10-27'
 gutenberg_type: Text
 identifiers:
