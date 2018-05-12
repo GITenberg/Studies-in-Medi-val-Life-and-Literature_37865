@@ -1,0 +1,38 @@
+_repo: Studies-in-Medi-val-Life-and-Literature_37865
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McLaughlin, Edward T. (Edward Tompkins)
+    alias: McLaughlin, Edward Tompkins
+    birthdate: 1860
+    deathdate: 1893
+    gutenberg_agent_id: '39097'
+    url: http://www.gutenberg.org/2009/agents/39097
+description: ''
+gutenberg_issued: '2011-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37865'
+  lccn: '15007458'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Héloïse, approximately 1095-1163 or 1164'
+- !lcsh 'Children in literature'
+- !lcsh 'Abelard, Peter, 1079-1142'
+- !lcsh 'German literature -- Middle High German, 1050-1500 -- History and criticism'
+- !lcc 'CB'
+- !lcsh 'Literature, Medieval -- History and criticism'
+- !lcsh 'Nature in literature'
+- !lcsh 'Civilization, Medieval'
+tableOfContents: 'Introduction -- The mediæval feeling for nature -- Ulrich von Liechtenstein:
+  the memoirs of an old German gallant -- Neidhart von Reuenthal and his Bavarian
+  peasants -- Meier Helmbrecht: a German farmer of the thirteenth century -- Childhood
+  in mediæval literature -- A mediæval woman.'
+title: Studies in Mediæval Life and Literature
+url: http://www.gutenberg.org/ebooks/37865
